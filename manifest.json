@@ -1,6 +1,6 @@
 {
-    "name": "new_portfolio",
-    "short_name": "new_portfolio",
+    "name": "new_web_po",
+    "short_name": "new_web_po",
     "start_url": ".",
     "display": "minimal-ui",
     "background_color": "#0175C2",
